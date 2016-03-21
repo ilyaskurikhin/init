@@ -68,6 +68,16 @@
     (add-hook 'org-mode-hook 'column-number-mode         t)
     (add-hook 'org-mode-hook 'org-indent-mode t)
 
+    ;; set the display options for fragments, scaling
+    (setq org-format-latex-options
+          '(:foreground default
+            :background default
+            :scale 2.0
+            :html-foreground "Black"
+            :html-background "Transparent"
+            :html-scale 1.5
+            :matchers ("begin" "$1" "$" "$$")))
+
 
 
 ;; Prog-mode options and hooks
