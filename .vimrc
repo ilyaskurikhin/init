@@ -137,7 +137,15 @@ set pastetoggle=<F11>
 set shiftwidth=4
 set softtabstop=4
 set expandtab
- 
+
+" Set a limit for line length at 80 characters
+" put a red line at that limit
+"set colorcolumn=80
+
+" highlight charachet 81
+:2mat ErrorMsg '\%81v.'
+
+
 " Indentation settings for using hard tabs for indent. Display tabs as
 " four characters wide.
 "set shiftwidth=4
