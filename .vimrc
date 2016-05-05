@@ -18,12 +18,25 @@ set nocompatible
 " Attempt to determine the type of a file based on its name and possibly its
 " contents. Use this to allow intelligent auto-indenting for each filetype,
 " and for plugins that are filetype specific.
-filetype indent plugin on
  
 " Enable syntax highlighting
 syntax on
- 
- 
+
+" settings for Vundle
+
+filetype plugin indent on
+
+"------------------------------------------------------------
+" Syntasic options
+
+
+
+"------------------------------------------------------------
+" Airline options
+let g:airline_powerline_fonts = 1
+set t_Co=256
+
+
 "------------------------------------------------------------
 " Must have options {{{1
 "
@@ -118,7 +131,7 @@ set cmdheight=2
  
 " Display line numbers on the left
 set number
-set relativenumber
+"set relativenumber
  
 " Quickly time out on keycodes, but never time out on mappings
 set notimeout ttimeout ttimeoutlen=200
@@ -134,8 +147,8 @@ set pastetoggle=<F11>
  
 " Indentation settings for using 4 spaces instead of tabs.
 " Do not change 'tabstop' from its default value of 8 with this setup.
-set shiftwidth=4
-set softtabstop=4
+set shiftwidth=2
+set softtabstop=2
 set expandtab
 
 " Set a limit for line length at 80 characters
