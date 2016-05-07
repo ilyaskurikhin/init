@@ -63,6 +63,9 @@ recent_RDP=192.168.1.9
 recent_VNC=skurikhin.dyndns-server.com
 uid=Linux+4.4.5-1-ARCH+x86_64+en_US.utf8+44535228
 bdate=736061
+survey=true
+screenshot_path=
+shortcutkey_screenshot=65481
 
 [remmina]
 keymap=

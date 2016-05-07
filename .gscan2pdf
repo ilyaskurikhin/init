@@ -1,0 +1,170 @@
+{
+   "window_height" : 1671,
+   "unsharp threshold" : 0.05,
+   "window_x" : 0,
+   "available-tmp-warning" : "10",
+   "view files toggle" : "",
+   "device blacklist" : "",
+   "unpaper options" : {
+      "no-blurfilter" : "",
+      "border-margin" : "0,0",
+      "deskew-scan-direction" : "left,right",
+      "no-grayfilter" : "",
+      "no-border-align" : "",
+      "output-pages" : 1,
+      "no-blackfilter" : "",
+      "no-noisefilter" : "",
+      "no-border-scan" : "",
+      "white-threshold" : 0.9,
+      "black-threshold" : 0.33,
+      "no-mask-scan" : "",
+      "layout" : "single",
+      "no-deskew" : ""
+   },
+   "keyword-suggestions" : [
+      ""
+   ],
+   "pages to scan" : "1",
+   "user_defined_tools" : [
+      "gimp %i"
+   ],
+   "Blank threshold" : 0.005,
+   "image type" : "pdf",
+   "pdf font" : "/usr/share/fonts/TTF/DejaVuSans-Bold.ttf",
+   "libsane-perl version" : "0.05",
+   "default-scan-options" : [
+      {
+         "br-x" : "210"
+      },
+      {
+         "br-y" : "297"
+      },
+      {
+         "mode" : "Lineart"
+      },
+      {
+         "resolution" : 300
+      }
+   ],
+   "downsample dpi" : 150,
+   "keywords" : "",
+   "quality" : 75,
+   "window_width" : 3200,
+   "current_udt" : "gimp %i",
+   "author-suggestions" : [
+      ""
+   ],
+   "window_maximize" : 1,
+   "thumb panel" : 374,
+   "layout" : "single",
+   "default filename" : "%t_%y-%m-%d",
+   "scan prefix" : "",
+   "author" : "",
+   "window_y" : 55,
+   "version" : "1.4.0",
+   "udt_on_scan" : "",
+   "subject" : "Agenda mai - juin 2016",
+   "OCR output" : "replace",
+   "unsharp amount" : 1,
+   "pdf compression" : "auto",
+   "unsharp sigma" : 1,
+   "rotate facing" : "270",
+   "Paper" : {
+      "US Letter" : {
+         "x" : 216,
+         "l" : 0,
+         "t" : 0,
+         "y" : 279
+      },
+      "US Legal" : {
+         "l" : 0,
+         "t" : 0,
+         "x" : 216,
+         "y" : 356
+      },
+      "A4" : {
+         "y" : 297,
+         "x" : 210,
+         "t" : 0,
+         "l" : 0
+      }
+   },
+   "auto-open-scan-dialog" : "1",
+   "title" : "Croix-Rouge",
+   "profile" : {},
+   "device" : "hpaio:/usb/Officejet_7200_series?serial=MY6BUK74YD04HQ",
+   "scan_window_width" : 898,
+   "unpaper on scan" : "",
+   "title-suggestions" : [
+      "SBB",
+      "Bedat",
+      "Visilab",
+      "Cartigny",
+      "Croix-Rouge"
+   ],
+   "document date" : 1461628800,
+   "SANE version" : "1.0.25",
+   "threshold-before-ocr" : "1",
+   "subject-suggestions" : [
+      "",
+      "Note d'honoraires",
+      "Ch\u00e8que fidelit\u00e9",
+      "Soirtie des a\u00een\u00e9s",
+      "Paroisse de la Champagne",
+      "Agenda mai - juin 2016"
+   ],
+   "scan_window_height" : 729,
+   "restore window" : "1",
+   "ocr language" : "fra",
+   "scan-reload-triggers" : [
+      "mode"
+   ],
+   "cache options" : 1,
+   "cycle sane handle" : "",
+   "rotate reverse" : "270",
+   "Page range" : "all",
+   "unsharp radius" : 0,
+   "frontend" : "libsane-perl",
+   "message" : {
+      "The help viewer requires module Gtk2::Ex::PodViewer\nAlternatively, try: gscan2pdf --help\n\n" : {},
+      "Error running unpaper: [image2 @ %%x] Encoder did not produce proper pts, making some up.\n" : {},
+      "Some pages have not been saved.\nDo you really want to quit?" : {},
+      "Document feeder out of documents" : {},
+      "Some pages have not been saved.\nDo you really want to clear all pages?" : {},
+      "gscan2pdf: sane_start: Device busy" : {}
+   },
+   "visible-scan-options" : {
+      "page-width" : 1,
+      "page-height" : 1,
+      "contrast" : 1,
+      "gain" : 1,
+      "pageheight" : 1,
+      "wait-for-button" : 1,
+      "l" : 1,
+      "speed" : 1,
+      "Paper size" : 1,
+      "overscan-bottom" : 1,
+      "x" : 1,
+      "compression" : 1,
+      "adf_mode" : 1,
+      "pagewidth" : 1,
+      "brightness" : 1,
+      "mode" : 1,
+      "threshold" : 1,
+      "source" : 1,
+      "button-wait" : 1,
+      "resolution" : 1,
+      "t" : 1,
+      "y" : 1,
+      "overscan-top" : 1,
+      "calibration-cache" : 1,
+      "batch-scan" : 1,
+      "adf-mode" : 1
+   },
+   "threshold tool" : 80,
+   "Dark threshold" : 0.12,
+   "downsample" : "",
+   "ocr engine" : "tesseract",
+   "cwd" : "/home/ilya/Dropbox/Documents/Scans",
+   "OCR on scan" : "1"
+}
