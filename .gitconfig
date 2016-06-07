@@ -2,7 +2,7 @@
 	name = Ilya Skurikhin
 	email = ilya@skurikhin.ch
 [core]
-	autocrlf = input
+	autocrlf = false
 	safecrlf = true
 [push]
 	default = simple
