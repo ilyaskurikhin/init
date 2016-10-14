@@ -1,353 +1,150 @@
-"batch-scan" : 1,
-""
-""
-image type = pdf
-"source" : 1,
-threshold tool = 80
-"message" : {
-OCR on scan = 1
-"resolution" : 1,
-"threshold tool" : 80,
-"resolution" : 300
-"y" : 279
-<profile>
-    <Lineart>
-        tl-x = 3
-    </Lineart>
-    <Lineart>
-        tl-y = 3
-    </Lineart>
-    <Lineart>
-        br-x = 215.899993896484
-    </Lineart>
-    <Lineart>
-        source = Flatbed
-    </Lineart>
-    <Lineart>
-        br-y = 303
-    </Lineart>
-    <Lineart>
-        length-measurement = Padded
-    </Lineart>
-    <Lineart>
-        mode = Lineart
-    </Lineart>
-    <Lineart>
-        resolution = 300
-    </Lineart>
-</profile>
-"compression" : 1,
-"t" : 0,
-"t" : 0,
-"t" : 0,
-"ocr language" : "fra",
-"gain" : 1,
-selection = 110
-selection = 1198
-selection = 720
-selection = 1115
-date offset = 0
-Blank threshold = 0.005
-"calibration-cache" : 1,
-scan_window_height = 851
-"Bedat",
-"overscan-bottom" : 1,
-"Ch\u00e8que fidelit\u00e9",
-"udt_on_scan" : "",
-"The help viewer requires module Gtk2::Ex::PodViewer\nAlternatively, try: gscan2pdf --help\n\n" : {},
-"scan_window_width" : 898,
-"y" : 1,
-"Soirtie des a\u00een\u00e9s",
-"SANE version" : "1.0.25",
-"profile" : {},
-"wait-for-button" : 1,
-startup warning = 1
-"Some pages have not been saved.\nDo you really want to clear all pages?" : {},
-"scan_window_height" : 729,
-],
-],
-],
-],
-],
-],
-],
-"adf_mode" : 1,
-"black-threshold" : 0.33,
-thumb panel = 459
-"subject-suggestions" : [
-<Paper>
-    <"US Letter">
-        t = 0
-        y = 279
-        l = 0
-        x = 216
-    </"US Letter">
-    <A4>
-        l = 3
-        x = 213
-        y = 300
-        t = 3
-    </A4>
-    <"US Legal">
-        t = 0
-        y = 356
-        l = 0
-        x = 216
-    </"US Legal">
-    <A5>
-        l = 3
-        x = 213
-        y = 152
-        t = 3
-    </A5>
-</Paper>
-"Agenda mai - juin 2016"
-"unsharp sigma" : 1,
-"Paroisse de la Champagne",
-ocr language = fra
-"device" : "hpaio:/usb/Officejet_7200_series?serial = MY6BUK74YD04HQ\",
-device = hpaio:/usb/Officejet_7200_series?serial=MY6BUK74YD04HQ
-"layout" : "single",
-"layout" : "single",
-view files toggle = 
-"no-deskew" : ""
-"view files toggle" : "",
-downsample dpi = 150
-"US Legal" : {
-"scan-reload-triggers" : [
-"threshold-before-ocr" : "1",
-"visible-scan-options" : {
-"downsample" : "",
-"libsane-perl version" : "0.05",
-window_x = 447
-"cycle sane handle" : "",
-"available-tmp-warning" : "10",
-unpaper on scan = 1
-"unpaper options" : {
-"version" : "1.4.0",
-default filename = %a_%y-%m-%d_%t
-"keyword-suggestions" : [
-"no-border-align" : "",
-"Blank threshold" : 0.005,
-"OCR on scan" : "1"
-threshold before OCR = 1
-"l" : 0
-"t" : 1,
-"unsharp threshold" : 0.05,
-"keywords" : "",
-"white-threshold" : 0.9,
-"gimp %i"
-"pages to scan" : "1",
-"pagewidth" : 1,
-threshold-before-ocr = 1
-cwd = /home/ilya/Dropbox/ArchDoc/Switzerland/Financial/Taxes/Liudmila/2015
-"unsharp amount" : 1,
-SANE version = 1.0.25
-"overscan-top" : 1,
-"threshold" : 1,
-"user_defined_tools" : [
-"cache options" : 1,
-"pdf compression" : "auto",
-"contrast" : 1,
-"Note d'honoraires",
-"window_x" : 0,
-"cwd" : "/home/ilya/Dropbox/Documents/Scans",
-"x" : 1,
-"author" : "",
-"Paper size" : 1,
-window_width = 1269
-"unsharp radius" : 0,
-"Visilab",
-"no-noisefilter" : "",
-window_y = 210
-downsample = 
-"rotate facing" : "270",
-window_maximize = 
-"Some pages have not been saved.\nDo you really want to quit?" : {},
-"downsample dpi" : 150,
-restore window = 1
-"y" : 297,
-"speed" : 1,
-unsharp radius = 0
-"output-pages" : 1,
-"br-y" : "297"
-"x" : 210,
-"l" : 1,
-"window_y" : 55,
-"page-width" : 1,
-"l" : 0,
-"l" : 0,
-"frontend" : "libsane-perl",
-"deskew-scan-direction" : "left,right",
-scan-reload-triggers = mode
-},
-},
-},
-},
-},
-},
-},
-},
-},
-"OCR output" : "replace",
-"adf-mode" : 1
-pdf font = /usr/share/fonts/sil-abyssinica/AbyssinicaSIL-R.ttf
-"pdf font" : "/usr/share/fonts/TTF/DejaVuSans-Bold.ttf",
-ocr engine = tesseract
-scan prefix = 
-rotate facing = 0
-"Document feeder out of documents" : {},
-OCR output = replace
-<default-scan-options>
-    tl-x = 3
-</default-scan-options>
-<default-scan-options>
-    tl-y = 3
-</default-scan-options>
-<default-scan-options>
-    br-x = 215.899993896484
-</default-scan-options>
-<default-scan-options>
-    source = Flatbed
-</default-scan-options>
-<default-scan-options>
-    length-measurement = Padded
-</default-scan-options>
-<default-scan-options>
-    batch-scan = 
-</default-scan-options>
-<default-scan-options>
-    br-y = 303
-</default-scan-options>
-<default-scan-options>
-    mode = Lineart
-</default-scan-options>
-<default-scan-options>
-    resolution = 300
-</default-scan-options>
-"current_udt" : "gimp %i",
-"thumb panel" : 374,
-<"unpaper options">
-    layout = single
-    deskew-scan-direction = left,right
-    no-deskew = 1
-    white-threshold = 0.85
-    black-threshold = 0.33
-    no-border-align = 
-    no-blackfilter = 
-    no-mask-scan = 
-    no-grayfilter = 
-    output-pages = 1
-    border-margin = 0,0
-    no-border-scan = 
-    no-noisefilter = 
-    no-blurfilter = 
-</"unpaper options">
-"no-grayfilter" : "",
-rotate reverse = 0
-pages to scan = 1
-user_defined_tools = gimp %i
-"restore window" : "1",
-"A4" : {
-author = AFC
 {
-{
-{
-{
-{
-"title-suggestions" : [
-"gscan2pdf: sane_start: Device busy" : {}
-"SBB",
-"ocr engine" : "tesseract",
-"Error running unpaper: [image2 @ %%x] Encoder did not produce proper pts, making some up.\n" : {},
-"mode" : 1,
-"Page range" : "all",
-"rotate reverse" : "270",
-"window_width" : 3200,
-"border-margin" : "0,0",
-window_height = 981
-unsharp threshold = 0.05
-"window_height" : 1671,
-"br-x" : "210"
-libsane-perl version = 0.05
-"default filename" : "%t_%y-%m-%d",
-pdf compression = auto
-"default-scan-options" : [
-"window_maximize" : 1,
-"subject" : "Agenda mai - juin 2016",
-"mode" : "Lineart"
-keywords = 
-"author-suggestions" : [
-"mode"
-"US Letter" : {
-auto-open-scan-dialog = 1
-unsharp sigma = 1
-quality = 75
-"",
-scan_window_width = 406
-"x" : 216,
-"x" : 216,
-Page range = all
-"scan prefix" : "",
-version = 1.3.0
-"page-height" : 1,
-"unpaper on scan" : "",
-"auto-open-scan-dialog" : "1",
-"no-mask-scan" : "",
-Dark threshold = 0.12
+   "pdf compression" : "auto",
+   "unsharp radius" : 0,
+   "frontend" : "libsane-perl",
+   "date offset" : -12,
+   "ocr engine" : "tesseract",
+   "rotate reverse" : "0",
+   "threshold tool" : 80,
+   "image type" : "pdf",
+   "author" : "USCIS",
+   "unsharp amount" : 1,
+   "ocr language" : "fra",
+   "device blacklist" : "",
+   "rotate facing" : "0",
+   "thumb panel" : 410,
+   "subject-suggestions" : [
+      "demande",
+      "216010708",
+      "LIN-16-904-69134",
+      ""
+   ],
+   "view files toggle" : "",
+   "title-suggestions" : [
+      "Regimo",
+      "",
+      "400928796"
+   ],
+   "pdf font" : "/usr/share/fonts/sil-abyssinica/AbyssinicaSIL-R.ttf",
+   "author-suggestions" : [
+      "",
+      "Broche",
+      "USCIS"
+   ],
+   "scan_window_height" : 1254,
+   "visible-scan-options" : {
+      "overscan-bottom" : 1,
+      "adf-mode" : 1,
+      "contrast" : 1,
+      "Paper size" : 1,
+      "gain" : 1,
+      "brightness" : 1,
+      "compression" : 1,
+      "page-height" : 1,
+      "y" : 1,
+      "source" : 1,
+      "mode" : 1,
+      "wait-for-button" : 1,
+      "button-wait" : 1,
+      "t" : 1,
+      "calibration-cache" : 1,
+      "x" : 1,
+      "page-width" : 1,
+      "overscan-top" : 1,
+      "pageheight" : 1,
+      "batch-scan" : 1,
+      "adf_mode" : 1,
+      "resolution" : 1,
+      "l" : 1,
+      "pagewidth" : 1,
+      "threshold" : 1,
+      "speed" : 1
+   },
+   "version" : "1.3.8",
+   "window_height" : 1605,
+   "OCR output" : "replace",
+   "cwd" : "/home/ilyaskurikhin/Dropbox/ArchDoc/Documents/Citizenship and visa/Ilya/USA/USCIS",
+   "window_x" : 0,
+   "profile" : {},
+   "libsane-perl version" : "0.05",
+   "scan-reload-triggers" : [
+      "mode"
+   ],
+   "quality" : 75,
+   "subject" : "",
+   "default filename" : "%a_%y-%m-%d_%t",
+   "title" : "400928796",
+   "scan_window_width" : 773,
+   "pages to scan" : "1",
+   "unpaper on scan" : "",
+   "cache options" : 1,
+   "default-scan-options" : [
+      {
+         "br-y" : 279
+      },
+      {
+         "mode" : "Color"
+      },
+      {
+         "resolution" : 300
+      }
+   ],
+   "window_maximize" : 1,
+   "keyword-suggestions" : [
+      ""
+   ],
+   "selection" : [
+      0,
+      0,
+      2147,
+      1517
+   ],
+   "Blank threshold" : 0.005,
+   "keywords" : "",
+   "user_defined_tools" : [
+      "gimp %i"
+   ],
+   "threshold-before-ocr" : "1",
+   "Paper size" : "US Letter",
+   "message" : {
+      "Error opening device: opening device 'hpaio:/net/photosmart_7520_series?ip=192.168.1.2&queue=false': Error during device I/O" : {},
+      "Some pages have not been saved.\nDo you really want to quit?" : {}
+   },
+   "OCR on scan" : "",
+   "auto-open-scan-dialog" : "1",
+   "layout" : "single",
+   "device" : "hpaio:/usb/Photosmart_7520_series?serial=CN3364913805YY",
+   "downsample dpi" : 150,
+   "scan prefix" : "",
+   "available-tmp-warning" : "10",
+   "Dark threshold" : 0.12,
+   "Page range" : "all",
+   "restore window" : "1",
+   "unsharp sigma" : 1,
+   "Paper" : {
+      "A4" : {
+         "l" : 0,
+         "x" : 210,
+         "t" : 0,
+         "y" : 297
+      },
+      "US Letter" : {
+         "l" : 0,
+         "x" : 216,
+         "y" : 279,
+         "t" : 0
+      },
+      "US Legal" : {
+         "t" : 0,
+         "y" : 356,
+         "x" : 216,
+         "l" : 0
+      }
+   },
+   "SANE version" : "1.0.25",
+   "window_y" : 55,
+   "unsharp threshold" : 0.05,
+   "downsample" : "",
+   "cycle sane handle" : "",
+   "window_width" : 3200
 }
-}
-}
-"brightness" : 1,
-"Croix-Rouge"
-unsharp amount = 1
-frontend = libsane-perl
-"quality" : 75,
-"Paper" : {
-device blacklist = 
-"title" : "Croix-Rouge",
-"pageheight" : 1,
-"no-blackfilter" : "",
-Paper size = A5
-cycle sane handle = 
-"Dark threshold" : 0.12,
-"Cartigny",
-"no-border-scan" : "",
-"document date" : 1461628800,
-cache options = 1
-"y" : 356
-layout = single
-"image type" : "pdf",
-<visible-scan-options>
-    compression = 1
-    batch-scan = 1
-    adf-mode = 1
-    speed = 1
-    overscan-bottom = 1
-    brightness = 1
-    gain = 1
-    pageheight = 1
-    overscan-top = 1
-    x = 1
-    l = 1
-    page-width = 1
-    adf_mode = 1
-    source = 1
-    mode = 1
-    pagewidth = 1
-    threshold = 1
-    resolution = 1
-    page-height = 1
-    contrast = 1
-    y = 1
-    Paper size = 1
-    calibration-cache = 1
-    wait-for-button = 1
-    t = 1
-    button-wait = 1
-</visible-scan-options>
-"no-blurfilter" : "",
-"button-wait" : 1,
-subject = 
-"device blacklist" : "",
-title = situation-fiscale
