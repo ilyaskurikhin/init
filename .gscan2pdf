@@ -1,0 +1,150 @@
+{
+   "pdf compression" : "auto",
+   "unsharp radius" : 0,
+   "frontend" : "libsane-perl",
+   "date offset" : -12,
+   "ocr engine" : "tesseract",
+   "rotate reverse" : "0",
+   "threshold tool" : 80,
+   "image type" : "pdf",
+   "author" : "USCIS",
+   "unsharp amount" : 1,
+   "ocr language" : "fra",
+   "device blacklist" : "",
+   "rotate facing" : "0",
+   "thumb panel" : 410,
+   "subject-suggestions" : [
+      "demande",
+      "216010708",
+      "LIN-16-904-69134",
+      ""
+   ],
+   "view files toggle" : "",
+   "title-suggestions" : [
+      "Regimo",
+      "",
+      "400928796"
+   ],
+   "pdf font" : "/usr/share/fonts/sil-abyssinica/AbyssinicaSIL-R.ttf",
+   "author-suggestions" : [
+      "",
+      "Broche",
+      "USCIS"
+   ],
+   "scan_window_height" : 1254,
+   "visible-scan-options" : {
+      "overscan-bottom" : 1,
+      "adf-mode" : 1,
+      "contrast" : 1,
+      "Paper size" : 1,
+      "gain" : 1,
+      "brightness" : 1,
+      "compression" : 1,
+      "page-height" : 1,
+      "y" : 1,
+      "source" : 1,
+      "mode" : 1,
+      "wait-for-button" : 1,
+      "button-wait" : 1,
+      "t" : 1,
+      "calibration-cache" : 1,
+      "x" : 1,
+      "page-width" : 1,
+      "overscan-top" : 1,
+      "pageheight" : 1,
+      "batch-scan" : 1,
+      "adf_mode" : 1,
+      "resolution" : 1,
+      "l" : 1,
+      "pagewidth" : 1,
+      "threshold" : 1,
+      "speed" : 1
+   },
+   "version" : "1.3.8",
+   "window_height" : 1605,
+   "OCR output" : "replace",
+   "cwd" : "/home/ilyaskurikhin/Dropbox/ArchDoc/Documents/Citizenship and visa/Ilya/USA/USCIS",
+   "window_x" : 0,
+   "profile" : {},
+   "libsane-perl version" : "0.05",
+   "scan-reload-triggers" : [
+      "mode"
+   ],
+   "quality" : 75,
+   "subject" : "",
+   "default filename" : "%a_%y-%m-%d_%t",
+   "title" : "400928796",
+   "scan_window_width" : 773,
+   "pages to scan" : "1",
+   "unpaper on scan" : "",
+   "cache options" : 1,
+   "default-scan-options" : [
+      {
+         "br-y" : 279
+      },
+      {
+         "mode" : "Color"
+      },
+      {
+         "resolution" : 300
+      }
+   ],
+   "window_maximize" : 1,
+   "keyword-suggestions" : [
+      ""
+   ],
+   "selection" : [
+      0,
+      0,
+      2147,
+      1517
+   ],
+   "Blank threshold" : 0.005,
+   "keywords" : "",
+   "user_defined_tools" : [
+      "gimp %i"
+   ],
+   "threshold-before-ocr" : "1",
+   "Paper size" : "US Letter",
+   "message" : {
+      "Error opening device: opening device 'hpaio:/net/photosmart_7520_series?ip=192.168.1.2&queue=false': Error during device I/O" : {},
+      "Some pages have not been saved.\nDo you really want to quit?" : {}
+   },
+   "OCR on scan" : "",
+   "auto-open-scan-dialog" : "1",
+   "layout" : "single",
+   "device" : "hpaio:/usb/Photosmart_7520_series?serial=CN3364913805YY",
+   "downsample dpi" : 150,
+   "scan prefix" : "",
+   "available-tmp-warning" : "10",
+   "Dark threshold" : 0.12,
+   "Page range" : "all",
+   "restore window" : "1",
+   "unsharp sigma" : 1,
+   "Paper" : {
+      "A4" : {
+         "l" : 0,
+         "x" : 210,
+         "t" : 0,
+         "y" : 297
+      },
+      "US Letter" : {
+         "l" : 0,
+         "x" : 216,
+         "y" : 279,
+         "t" : 0
+      },
+      "US Legal" : {
+         "t" : 0,
+         "y" : 356,
+         "x" : 216,
+         "l" : 0
+      }
+   },
+   "SANE version" : "1.0.25",
+   "window_y" : 55,
+   "unsharp threshold" : 0.05,
+   "downsample" : "",
+   "cycle sane handle" : "",
+   "window_width" : 3200
+}
